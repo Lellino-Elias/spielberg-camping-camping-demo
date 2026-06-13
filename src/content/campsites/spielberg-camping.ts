@@ -161,8 +161,8 @@ const spielbergCamping: CampsiteConfig = {
     tag: "Red Bull Ring · Spielberg",
     moreCount: 20,
     images: [
-      { src: `${IMG}/galerie-abendstimmung.webp`, alt: "Abendstimmung über dem Campingplatz Birkmoar" },
-      { src: `${IMG}/galerie-aussicht.webp`, alt: "Blick über das voll belegte Campingareal mit Bergkulisse" },
+      { src: `${IMG}/galerie-abendstimmung.webp`, alt: "Zwei Gäste feiern abends am Camping PINK unter bunten Lichterketten" },
+      { src: `${IMG}/galerie-aussicht.webp`, alt: "Luftaufnahme des Red Bull Ring mit dem Camping-Areal von Camping PINK im Hintergrund" },
       { src: `${IMG}/galerie-gaeste-abend.webp`, alt: "Campinggäste vor ihrem Wohnmobil am Abend" },
       { src: `${IMG}/galerie-gastro-kaffee.webp`, alt: "Gäste beim Kaffee an den Bierbänken der Gastronomie" },
     ],
