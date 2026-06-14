@@ -91,11 +91,6 @@ const spielbergCamping: CampsiteConfig = {
         image: { src: `${IMG}/gastronomie-gastgarten.webp`, alt: "Gastgarten mit Getränkestand, Bierbänken und Lichterketten am Abend" },
       },
       {
-        title: "Abende am Lagerfeuer",
-        text: "Wenn die Rennen vorbei sind, wird zusammengesessen — Lagerfeuer, ein kühles Getränk und Camperinnen und Camper aus halb Europa direkt nebenan.",
-        image: { src: `${IMG}/lagerfeuer-abend.webp`, alt: "Campinggäste auf einer Couch rund ums Lagerfeuer am Zeltplatz" },
-      },
-      {
         title: "Check-in mit Lächeln",
         text: "Das Team weist dich schon beim Check-in mit einem Lächeln ein und zeigt dir den Weg zu deinem Areal — gerne auch zweimal.",
         image: { src: `${IMG}/check-in-team.webp`, alt: "Camping-PINK-Mitarbeiterinnen beim Check-in der Gäste am Campingplatz" },
