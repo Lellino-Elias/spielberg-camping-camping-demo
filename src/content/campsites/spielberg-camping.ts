@@ -111,16 +111,7 @@ const spielbergCamping: CampsiteConfig = {
   mobilheime: {
     heading: "Lieber ein festes Dach?",
     intro: "Kein eigenes Equipment dabei? Diese bezugsfertige Unterkunft steht für dein Renn-Wochenende bereit.",
-    items: [
-      {
-        name: "Event Lodge",
-        kind: "Holz-Lodge",
-        text: "Die bezugsfertige Holz-Lodge mit 8 m² für vier Personen — naturnah und komfortabel, inklusive Frühstück.",
-        image: { src: `${IMG}/event-lodge.webp`, alt: "Bezugsfertige Event Lodges aus Holz mit Liegestühlen" },
-        priceFrom: 1799,
-        features: ["4 Gäste", "8 m²", "inkl. Frühstück"],
-      },
-    ],
+    items: [],
   },
 
   aktivitaeten: {
@@ -135,7 +126,7 @@ const spielbergCamping: CampsiteConfig = {
       {
         title: "MotoGP 2026",
         text: "Am Wochenende vom 18. bis 20. September gehört der Ring den schnellsten Motorrädern der Welt.",
-        image: { src: `${IMG}/motogp-red-bull-ring.webp`, alt: "MotoGP-Motorräder in der Kurve auf der Rennstrecke" },
+        image: { src: `${IMG}/motogp-red-bull-ring.webp`, alt: "MotoGP-Startfeld auf dem Red Bull Ring in Spielberg mit grüner Alpenkulisse" },
       },
       {
         title: "Feiern mit Fans",
