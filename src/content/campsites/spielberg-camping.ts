@@ -78,7 +78,7 @@ const spielbergCamping: CampsiteConfig = {
       {
         title: "Großzügige Stellplätze",
         text: "Ebene Wiesenflächen mit 63 m² oder 85 m² und Stromanschluss — Platz für Zelt, Wohnwagen und Wohnmobil. Die Zuteilung erfolgt durch das Team, nach First-Come-First-Serve.",
-        image: { src: `${IMG}/stellplaetze-kneissl.webp`, alt: "Großzügige Wiesenstellplätze mit Zelten und Autos in der Abendsonne" },
+        image: { src: `${IMG}/stellplaetze-kneissl.webp`, alt: "Weite Aussicht über den Campingplatz Birkmoar mit Wohnmobilen und Zelten vor Alpinpanorama" },
       },
       {
         title: "Inmitten der Natur",
