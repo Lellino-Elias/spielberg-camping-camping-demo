@@ -36,12 +36,12 @@ const spielbergCamping: CampsiteConfig = {
     {
       title: "Wenige Gehminuten zur Strecke",
       text: "Camping PINK liegt unmittelbar neben dem Ringgelände — zur Akkreditierung an Eingang Nord/Schönberg und am Haupteingang Start-Ziel sind es nur ein paar Minuten zu Fuß.",
-      image: { src: `${IMG}/weg-zum-red-bull-ring.webp`, alt: "Weg über den Campingplatz Richtung Red Bull Ring mit Blick ins Murtal" },
+      image: { src: `${IMG}/weg-zum-red-bull-ring.webp`, alt: "Gäste spazieren auf dem Weg durch den Campingplatz Birkmoar Richtung Red Bull Ring, Murtal und Alpen im Hintergrund" },
     },
     {
       title: "Stellplätze mit Murtal-Blick",
       text: "Saftig grüne Campingwiesen mit ebener Fläche oder leichter Hanglage — und vom Birkmoarhof aus der weite Blick über das Murtal mit Wiesen, Wäldern und Bergen.",
-      image: { src: `${IMG}/stellplatz-murtalblick.webp`, alt: "Stellplatz mit Zelt und Auto und Blick über das Murtal" },
+      image: { src: `${IMG}/stellplatz-murtalblick.webp`, alt: "Stellplatz mit Zelten und Auto am Birkmoarhof mit weitem Blick über das Murtal und die Alpen" },
     },
     {
       title: "Familienbetrieb seit über 20 Jahren",
@@ -78,7 +78,7 @@ const spielbergCamping: CampsiteConfig = {
       {
         title: "Großzügige Stellplätze",
         text: "Ebene Wiesenflächen mit 63 m² oder 85 m² und Stromanschluss — Platz für Zelt, Wohnwagen und Wohnmobil. Die Zuteilung erfolgt durch das Team, nach First-Come-First-Serve.",
-        image: { src: `${IMG}/stellplaetze-kneissl.webp`, alt: "Weite Aussicht über den Campingplatz Birkmoar mit Wohnmobilen und Zelten vor Alpinpanorama" },
+        image: { src: `${IMG}/stellplaetze-kneissl.webp`, alt: "Weitläufiges Campingareal am Birkmoarhof mit Wohnmobilen und Zelten auf grüner Wiese vor Bergpanorama" },
       },
       {
         title: "Inmitten der Natur",
@@ -98,7 +98,7 @@ const spielbergCamping: CampsiteConfig = {
       {
         title: "Partyprogramm am Innenhof",
         text: "Der überdachte Innenhof am Birkmoarhof lädt zu Speis und Trank ein und bietet abends Livemusik und Partyprogramm — bis zur vereinbarten Nachtruhe.",
-        image: { src: `${IMG}/partyprogramm-innenhof.webp`, alt: "Abendliche Party am überdachten Innenhof von Camping PINK am Birkmoarhof" },
+        image: { src: `${IMG}/partyprogramm-innenhof.webp`, alt: "Belebter Abend am Gastro- und Partybereich von Camping PINK am Birkmoarhof mit Live-Musik und Gästen" },
       },
     ],
   },
@@ -147,9 +147,9 @@ const spielbergCamping: CampsiteConfig = {
     tag: "Red Bull Ring · Spielberg",
     moreCount: 20,
     images: [
-      { src: `${IMG}/galerie-abendstimmung.webp`, alt: "Zwei Gäste feiern abends am Camping PINK unter bunten Lichterketten" },
-      { src: `${IMG}/galerie-aussicht.webp`, alt: "Luftaufnahme des Red Bull Ring mit dem Camping-Areal von Camping PINK im Hintergrund" },
-      { src: `${IMG}/galerie-gaeste-abend.webp`, alt: "Campinggäste vor ihrem Wohnmobil am Abend" },
+      { src: `${IMG}/galerie-abendstimmung.webp`, alt: "Motorsportfans feiern an ihrem Stellplatz auf dem Campingplatz Birkmoar mit Wohnmobil und Zelten" },
+      { src: `${IMG}/galerie-aussicht.webp`, alt: "Valentino-Rossi-Fans auf der Tribüne am Red Bull Ring mit gelben Flaggen und Bengalos" },
+      { src: `${IMG}/galerie-gaeste-abend.webp`, alt: "Campinggäste sitzen gemütlich auf einer Couch am Lagerfeuer auf dem Camping PINK Areal" },
       { src: `${IMG}/galerie-gastro-kaffee.webp`, alt: "Gäste beim Kaffee an den Bierbänken der Gastronomie" },
     ],
   },
