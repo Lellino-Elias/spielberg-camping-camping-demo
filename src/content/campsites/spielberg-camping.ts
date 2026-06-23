@@ -83,7 +83,7 @@ const spielbergCamping: CampsiteConfig = {
       {
         title: "Inmitten der Natur",
         text: "Das Areal liegt zwischen Wiesen und Wäldern, gepflegt und weitläufig — mit freiem Blick über das Murtal bis zu den umliegenden Bergen.",
-        image: { src: `${IMG}/campingareal-natur.webp`, alt: "Campingareal am Waldrand mit Bergblick über das Murtal" },
+        image: { src: `${IMG}/campingareal-natur.webp`, alt: "Weitläufiges Campingareal am Birkmoarhof mit Zelten, Wohnmobilen und Waldgrenze im Hintergrund" },
       },
       {
         title: "Ganztägige Gastronomie",
